@@ -25,12 +25,12 @@ interactive, and portable web-based graphs.
 ### Energy Generation
 An area plot of energy production color coded by generation process.
 
-<img src="images/energy.png">
+<img src="images/energy.PNG">
 
 ### IMDB Ratings of Films
 Stacked histogram of films binned by IMDB rating and color coded by genre.
 
-<img src="images/films.png">
+<img src="images/films.PNG">
 
 ## Concatenation and Dashboards
 
@@ -47,16 +47,18 @@ selected vehicles in color.
 <img src="images/cars.png">
 
 
-2. A simple dashboard of three plots. Selecting a horizontal bar on the 
+2. A simple dashboard of three plots. Selecting a bar on the 
 lower horizontal bar chart of Cylinders vs. Number of Records filters the data
 presented in the Avg. Weight vs. Origin vertical bar chart and the
 scatter plot of Horsepower vs. Miles per Gallon. Note that on the scatter plot
-the selected data is shown in color, while unselected data is grayed out.
+the selected data is shown in color, while unselected data is grayed out. In this
+case, 4-cylinder vehicles have been selected.
 
 <img src="images/simple-dashboard.png">
 
 3. Similar to the previous dashboard, but the data is filtered with
-a heatmap instead of a bar chart.
+a heatmap instead of a bar chart. In this instance, cars produced
+in 1980 and 1982 have been selected.
 
 <img src="images/simple-dashboard-2.png">
 
